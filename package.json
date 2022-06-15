@@ -1,0 +1,11 @@
+{
+    "name": "edston-devops",
+    "version": "0.0.1",
+    "description": "",
+    "author": "",
+    "private": true,
+    "license": "UNLICENSED",
+    "scripts": {
+      "start": "docker-compose up --build"
+    }
+}
